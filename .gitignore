@@ -1,0 +1,7 @@
+
+# Unreal Engine 忽略规则
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
