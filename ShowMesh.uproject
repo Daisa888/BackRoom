@@ -14,10 +14,6 @@
 		{
 			"Name": "SkeletalMeshModelingTools",
 			"Enabled": true
-		},
-		{
-			"Name": "UNTLink",
-			"Enabled": true
 		}
 	]
 }
